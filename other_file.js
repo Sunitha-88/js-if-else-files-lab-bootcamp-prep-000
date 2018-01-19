@@ -1,2 +1,2 @@
-var name=require(''./index.js')
+var name=require('./index.js')
 console.log(name)
